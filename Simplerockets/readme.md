@@ -1,1 +1,2 @@
-Files for the following [site](https://www.simplepckets.com) : www.simplerockets.com to access
+Files for the following site(s): 
+www.simplerockets.com
